@@ -1,5 +1,19 @@
-# 💫 About Me:
-<br>🎓 **What I study**  <br>I am a B.Tech student specializing in Computer Science with a focus on Artificial Intelligence and Machine Learning.  <br><br>🧠 **What I know**  <br>- Full-stack development (React, Node.js, Django, etc.)  <br>- Machine Learning and Deep Learning techniques  <br>- Solving Data Structures and Algorithms (DSA) problems using C++  <br>- Large Language Model (LLM) integration  <br>- Deployment on cloud platforms like AWS  <br><br>💡 **My expertise**  <br>- Building scalable and secure full-stack applications  <br>- Freelancing and delivering high-quality tech solutions  <br>- Integrating APIs, microservices, and LLMs into real-world applications  <br><br>🚀 **What I do**  <br>- Freelance software development projects  <br>- Solve complex coding challenges  <br>- Explore and implement AI/ML-based solutions  <br><br>📬 **Reach me for**  <br>Collaboration on projects, freelancing opportunities, and deployment consultation!  <br><br>
+### 💡 About Me  
+🎓 **B.Tech in Computer Science** with a focus on **AI & ML**.  
+
+🛠️ **Skills**:  
+- Full-stack development (React, Node.js, Django)  
+- Machine Learning & Deep Learning  
+- DSA with C++  
+- Cloud deployment (AWS, etc.)  
+- LLM integration & API development  
+
+🚀 **Expertise**:  
+- Building scalable, secure web apps  
+- Freelancing tech solutions  
+- AI/ML implementation  
+
+📬 **Let's Connect**: Open for collaborations, freelancing, and consultations!
 
 
 ## 🌐 Socials:
