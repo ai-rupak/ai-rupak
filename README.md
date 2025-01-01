@@ -1,5 +1,5 @@
 ### 💡 About Me  
-🎓 **B.Tech in Computer Science** with a focus on **AI & ML**.  
+🎓 **B.Tech in Computer Science** in **AI & ML**.  
 
 🛠️ **Skills**:  
 - Full-stack development (React, Node.js, Django)  
